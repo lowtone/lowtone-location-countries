@@ -1,0 +1,988 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Countries\n"
+"POT-Creation-Date: 2013-10-31 13:37+0100\n"
+"PO-Revision-Date: 2013-10-31 13:37+0100\n"
+"Last-Translator: Paul van der Meijs <info@lowtone.nl>\n"
+"Language-Team: Lowtone <info@lowtone.nl>\n"
+"Language: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../assets/languages/strings.php:2
+msgid "Afghanistan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:3
+msgid "Åland Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:4
+msgid "Albania"
+msgstr ""
+
+#: ../../assets/languages/strings.php:5
+msgid "Algeria"
+msgstr ""
+
+#: ../../assets/languages/strings.php:6
+msgid "American Samoa"
+msgstr ""
+
+#: ../../assets/languages/strings.php:7
+msgid "AndorrA"
+msgstr ""
+
+#: ../../assets/languages/strings.php:8
+msgid "Angola"
+msgstr ""
+
+#: ../../assets/languages/strings.php:9
+msgid "Anguilla"
+msgstr ""
+
+#: ../../assets/languages/strings.php:10
+msgid "Antarctica"
+msgstr ""
+
+#: ../../assets/languages/strings.php:11
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../../assets/languages/strings.php:12
+msgid "Argentina"
+msgstr ""
+
+#: ../../assets/languages/strings.php:13
+msgid "Armenia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:14
+msgid "Aruba"
+msgstr ""
+
+#: ../../assets/languages/strings.php:15
+msgid "Australia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:16
+msgid "Austria"
+msgstr ""
+
+#: ../../assets/languages/strings.php:17
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:18
+msgid "Bahamas"
+msgstr ""
+
+#: ../../assets/languages/strings.php:19
+msgid "Bahrain"
+msgstr ""
+
+#: ../../assets/languages/strings.php:20
+msgid "Bangladesh"
+msgstr ""
+
+#: ../../assets/languages/strings.php:21
+msgid "Barbados"
+msgstr ""
+
+#: ../../assets/languages/strings.php:22
+msgid "Belarus"
+msgstr ""
+
+#: ../../assets/languages/strings.php:23
+msgid "Belgium"
+msgstr ""
+
+#: ../../assets/languages/strings.php:24
+msgid "Belize"
+msgstr ""
+
+#: ../../assets/languages/strings.php:25
+msgid "Benin"
+msgstr ""
+
+#: ../../assets/languages/strings.php:26
+msgid "Bermuda"
+msgstr ""
+
+#: ../../assets/languages/strings.php:27
+msgid "Bhutan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:28
+msgid "Bolivia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:29
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../../assets/languages/strings.php:30
+msgid "Botswana"
+msgstr ""
+
+#: ../../assets/languages/strings.php:31
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../../assets/languages/strings.php:32
+msgid "Brazil"
+msgstr ""
+
+#: ../../assets/languages/strings.php:33
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../../assets/languages/strings.php:34
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: ../../assets/languages/strings.php:35
+msgid "Bulgaria"
+msgstr ""
+
+#: ../../assets/languages/strings.php:36
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../../assets/languages/strings.php:37
+msgid "Burundi"
+msgstr ""
+
+#: ../../assets/languages/strings.php:38
+msgid "Cambodia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:39
+msgid "Cameroon"
+msgstr ""
+
+#: ../../assets/languages/strings.php:40
+msgid "Canada"
+msgstr ""
+
+#: ../../assets/languages/strings.php:41
+msgid "Cape Verde"
+msgstr ""
+
+#: ../../assets/languages/strings.php:42
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:43
+msgid "Central African Republic"
+msgstr ""
+
+#: ../../assets/languages/strings.php:44
+msgid "Chad"
+msgstr ""
+
+#: ../../assets/languages/strings.php:45
+msgid "Chile"
+msgstr ""
+
+#: ../../assets/languages/strings.php:46
+msgid "China"
+msgstr ""
+
+#: ../../assets/languages/strings.php:47
+msgid "Christmas Island"
+msgstr ""
+
+#: ../../assets/languages/strings.php:48
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:49
+msgid "Colombia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:50
+msgid "Comoros"
+msgstr ""
+
+#: ../../assets/languages/strings.php:51
+msgid "Congo"
+msgstr ""
+
+#: ../../assets/languages/strings.php:52
+msgid "Congo, The Democratic Republic of the"
+msgstr ""
+
+#: ../../assets/languages/strings.php:53
+msgid "Cook Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:54
+msgid "Costa Rica"
+msgstr ""
+
+#: ../../assets/languages/strings.php:55
+msgid "Cote D'Ivoire"
+msgstr ""
+
+#: ../../assets/languages/strings.php:56
+msgid "Croatia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:57
+msgid "Cuba"
+msgstr ""
+
+#: ../../assets/languages/strings.php:58
+msgid "Cyprus"
+msgstr ""
+
+#: ../../assets/languages/strings.php:59
+msgid "Czech Republic"
+msgstr ""
+
+#: ../../assets/languages/strings.php:60
+msgid "Denmark"
+msgstr ""
+
+#: ../../assets/languages/strings.php:61
+msgid "Djibouti"
+msgstr ""
+
+#: ../../assets/languages/strings.php:62
+msgid "Dominica"
+msgstr ""
+
+#: ../../assets/languages/strings.php:63
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../../assets/languages/strings.php:64
+msgid "Ecuador"
+msgstr ""
+
+#: ../../assets/languages/strings.php:65
+msgid "Egypt"
+msgstr ""
+
+#: ../../assets/languages/strings.php:66
+msgid "El Salvador"
+msgstr ""
+
+#: ../../assets/languages/strings.php:67
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../../assets/languages/strings.php:68
+msgid "Eritrea"
+msgstr ""
+
+#: ../../assets/languages/strings.php:69
+msgid "Estonia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:70
+msgid "Ethiopia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:71
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: ../../assets/languages/strings.php:72
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:73
+msgid "Fiji"
+msgstr ""
+
+#: ../../assets/languages/strings.php:74
+msgid "Finland"
+msgstr ""
+
+#: ../../assets/languages/strings.php:75
+msgid "France"
+msgstr ""
+
+#: ../../assets/languages/strings.php:76
+msgid "French Guiana"
+msgstr ""
+
+#: ../../assets/languages/strings.php:77
+msgid "French Polynesia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:78
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../../assets/languages/strings.php:79
+msgid "Gabon"
+msgstr ""
+
+#: ../../assets/languages/strings.php:80
+msgid "Gambia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:81
+msgid "Georgia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:82
+msgid "Germany"
+msgstr ""
+
+#: ../../assets/languages/strings.php:83
+msgid "Ghana"
+msgstr ""
+
+#: ../../assets/languages/strings.php:84
+msgid "Gibraltar"
+msgstr ""
+
+#: ../../assets/languages/strings.php:85
+msgid "Greece"
+msgstr ""
+
+#: ../../assets/languages/strings.php:86
+msgid "Greenland"
+msgstr ""
+
+#: ../../assets/languages/strings.php:87
+msgid "Grenada"
+msgstr ""
+
+#: ../../assets/languages/strings.php:88
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../../assets/languages/strings.php:89
+msgid "Guam"
+msgstr ""
+
+#: ../../assets/languages/strings.php:90
+msgid "Guatemala"
+msgstr ""
+
+#: ../../assets/languages/strings.php:91
+msgid "Guernsey"
+msgstr ""
+
+#: ../../assets/languages/strings.php:92
+msgid "Guinea"
+msgstr ""
+
+#: ../../assets/languages/strings.php:93
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../../assets/languages/strings.php:94
+msgid "Guyana"
+msgstr ""
+
+#: ../../assets/languages/strings.php:95
+msgid "Haiti"
+msgstr ""
+
+#: ../../assets/languages/strings.php:96
+msgid "Heard Island and Mcdonald Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:97
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: ../../assets/languages/strings.php:98
+msgid "Honduras"
+msgstr ""
+
+#: ../../assets/languages/strings.php:99
+msgid "Hong Kong"
+msgstr ""
+
+#: ../../assets/languages/strings.php:100
+msgid "Hungary"
+msgstr ""
+
+#: ../../assets/languages/strings.php:101
+msgid "Iceland"
+msgstr ""
+
+#: ../../assets/languages/strings.php:102
+msgid "India"
+msgstr ""
+
+#: ../../assets/languages/strings.php:103
+msgid "Indonesia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:104
+msgid "Iran, Islamic Republic Of"
+msgstr ""
+
+#: ../../assets/languages/strings.php:105
+msgid "Iraq"
+msgstr ""
+
+#: ../../assets/languages/strings.php:106
+msgid "Ireland"
+msgstr ""
+
+#: ../../assets/languages/strings.php:107
+msgid "Isle of Man"
+msgstr ""
+
+#: ../../assets/languages/strings.php:108
+msgid "Israel"
+msgstr ""
+
+#: ../../assets/languages/strings.php:109
+msgid "Italy"
+msgstr ""
+
+#: ../../assets/languages/strings.php:110
+msgid "Jamaica"
+msgstr ""
+
+#: ../../assets/languages/strings.php:111
+msgid "Japan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:112
+msgid "Jersey"
+msgstr ""
+
+#: ../../assets/languages/strings.php:113
+msgid "Jordan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:114
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:115
+msgid "Kenya"
+msgstr ""
+
+#: ../../assets/languages/strings.php:116
+msgid "Kiribati"
+msgstr ""
+
+#: ../../assets/languages/strings.php:117
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: ../../assets/languages/strings.php:118
+msgid "Korea, Republic of"
+msgstr ""
+
+#: ../../assets/languages/strings.php:119
+msgid "Kuwait"
+msgstr ""
+
+#: ../../assets/languages/strings.php:120
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:121
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: ../../assets/languages/strings.php:122
+msgid "Latvia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:123
+msgid "Lebanon"
+msgstr ""
+
+#: ../../assets/languages/strings.php:124
+msgid "Lesotho"
+msgstr ""
+
+#: ../../assets/languages/strings.php:125
+msgid "Liberia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:126
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: ../../assets/languages/strings.php:127
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../../assets/languages/strings.php:128
+msgid "Lithuania"
+msgstr ""
+
+#: ../../assets/languages/strings.php:129
+msgid "Luxembourg"
+msgstr ""
+
+#: ../../assets/languages/strings.php:130
+msgid "Macao"
+msgstr ""
+
+#: ../../assets/languages/strings.php:131
+msgid "Macedonia, The Former Yugoslav Republic of"
+msgstr ""
+
+#: ../../assets/languages/strings.php:132
+msgid "Madagascar"
+msgstr ""
+
+#: ../../assets/languages/strings.php:133
+msgid "Malawi"
+msgstr ""
+
+#: ../../assets/languages/strings.php:134
+msgid "Malaysia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:135
+msgid "Maldives"
+msgstr ""
+
+#: ../../assets/languages/strings.php:136
+msgid "Mali"
+msgstr ""
+
+#: ../../assets/languages/strings.php:137
+msgid "Malta"
+msgstr ""
+
+#: ../../assets/languages/strings.php:138
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:139
+msgid "Martinique"
+msgstr ""
+
+#: ../../assets/languages/strings.php:140
+msgid "Mauritania"
+msgstr ""
+
+#: ../../assets/languages/strings.php:141
+msgid "Mauritius"
+msgstr ""
+
+#: ../../assets/languages/strings.php:142
+msgid "Mayotte"
+msgstr ""
+
+#: ../../assets/languages/strings.php:143
+msgid "Mexico"
+msgstr ""
+
+#: ../../assets/languages/strings.php:144
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: ../../assets/languages/strings.php:145
+msgid "Moldova, Republic of"
+msgstr ""
+
+#: ../../assets/languages/strings.php:146
+msgid "Monaco"
+msgstr ""
+
+#: ../../assets/languages/strings.php:147
+msgid "Mongolia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:148
+msgid "Montserrat"
+msgstr ""
+
+#: ../../assets/languages/strings.php:149
+msgid "Morocco"
+msgstr ""
+
+#: ../../assets/languages/strings.php:150
+msgid "Mozambique"
+msgstr ""
+
+#: ../../assets/languages/strings.php:151
+msgid "Myanmar"
+msgstr ""
+
+#: ../../assets/languages/strings.php:152
+msgid "Namibia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:153
+msgid "Nauru"
+msgstr ""
+
+#: ../../assets/languages/strings.php:154
+msgid "Nepal"
+msgstr ""
+
+#: ../../assets/languages/strings.php:155
+msgid "Netherlands"
+msgstr "Nederland"
+
+#: ../../assets/languages/strings.php:156
+msgid "Netherlands Antilles"
+msgstr "Nederlandse Antillen"
+
+#: ../../assets/languages/strings.php:157
+msgid "New Caledonia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:158
+msgid "New Zealand"
+msgstr ""
+
+#: ../../assets/languages/strings.php:159
+msgid "Nicaragua"
+msgstr ""
+
+#: ../../assets/languages/strings.php:160
+msgid "Niger"
+msgstr ""
+
+#: ../../assets/languages/strings.php:161
+msgid "Nigeria"
+msgstr ""
+
+#: ../../assets/languages/strings.php:162
+msgid "Niue"
+msgstr ""
+
+#: ../../assets/languages/strings.php:163
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../../assets/languages/strings.php:164
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:165
+msgid "Norway"
+msgstr ""
+
+#: ../../assets/languages/strings.php:166
+msgid "Oman"
+msgstr ""
+
+#: ../../assets/languages/strings.php:167
+msgid "Pakistan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:168
+msgid "Palau"
+msgstr ""
+
+#: ../../assets/languages/strings.php:169
+msgid "Palestinian Territory, Occupied"
+msgstr ""
+
+#: ../../assets/languages/strings.php:170
+msgid "Panama"
+msgstr ""
+
+#: ../../assets/languages/strings.php:171
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../../assets/languages/strings.php:172
+msgid "Paraguay"
+msgstr ""
+
+#: ../../assets/languages/strings.php:173
+msgid "Peru"
+msgstr ""
+
+#: ../../assets/languages/strings.php:174
+msgid "Philippines"
+msgstr ""
+
+#: ../../assets/languages/strings.php:175
+msgid "Pitcairn"
+msgstr ""
+
+#: ../../assets/languages/strings.php:176
+msgid "Poland"
+msgstr ""
+
+#: ../../assets/languages/strings.php:177
+msgid "Portugal"
+msgstr ""
+
+#: ../../assets/languages/strings.php:178
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../../assets/languages/strings.php:179
+msgid "Qatar"
+msgstr ""
+
+#: ../../assets/languages/strings.php:180
+msgid "Reunion"
+msgstr ""
+
+#: ../../assets/languages/strings.php:181
+msgid "Romania"
+msgstr ""
+
+#: ../../assets/languages/strings.php:182
+msgid "Russian Federation"
+msgstr ""
+
+#: ../../assets/languages/strings.php:183
+msgid "RWANDA"
+msgstr ""
+
+#: ../../assets/languages/strings.php:184
+msgid "Saint Helena"
+msgstr ""
+
+#: ../../assets/languages/strings.php:185
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../../assets/languages/strings.php:186
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:187
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: ../../assets/languages/strings.php:188
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: ../../assets/languages/strings.php:189
+msgid "Samoa"
+msgstr ""
+
+#: ../../assets/languages/strings.php:190
+msgid "San Marino"
+msgstr ""
+
+#: ../../assets/languages/strings.php:191
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: ../../assets/languages/strings.php:192
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:193
+msgid "Senegal"
+msgstr ""
+
+#: ../../assets/languages/strings.php:194
+msgid "Serbia and Montenegro"
+msgstr ""
+
+#: ../../assets/languages/strings.php:195
+msgid "Seychelles"
+msgstr ""
+
+#: ../../assets/languages/strings.php:196
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../../assets/languages/strings.php:197
+msgid "Singapore"
+msgstr ""
+
+#: ../../assets/languages/strings.php:198
+msgid "Slovakia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:199
+msgid "Slovenia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:200
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:201
+msgid "Somalia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:202
+msgid "South Africa"
+msgstr ""
+
+#: ../../assets/languages/strings.php:203
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:204
+msgid "Spain"
+msgstr ""
+
+#: ../../assets/languages/strings.php:205
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../../assets/languages/strings.php:206
+msgid "Sudan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:207
+msgid "Suriname"
+msgstr ""
+
+#: ../../assets/languages/strings.php:208
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: ../../assets/languages/strings.php:209
+msgid "Swaziland"
+msgstr ""
+
+#: ../../assets/languages/strings.php:210
+msgid "Sweden"
+msgstr ""
+
+#: ../../assets/languages/strings.php:211
+msgid "Switzerland"
+msgstr ""
+
+#: ../../assets/languages/strings.php:212
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: ../../assets/languages/strings.php:213
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: ../../assets/languages/strings.php:214
+msgid "Tajikistan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:215
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: ../../assets/languages/strings.php:216
+msgid "Thailand"
+msgstr ""
+
+#: ../../assets/languages/strings.php:217
+msgid "Timor-Leste"
+msgstr ""
+
+#: ../../assets/languages/strings.php:218
+msgid "Togo"
+msgstr ""
+
+#: ../../assets/languages/strings.php:219
+msgid "Tokelau"
+msgstr ""
+
+#: ../../assets/languages/strings.php:220
+msgid "Tonga"
+msgstr ""
+
+#: ../../assets/languages/strings.php:221
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../../assets/languages/strings.php:222
+msgid "Tunisia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:223
+msgid "Turkey"
+msgstr ""
+
+#: ../../assets/languages/strings.php:224
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:225
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:226
+msgid "Tuvalu"
+msgstr ""
+
+#: ../../assets/languages/strings.php:227
+msgid "Uganda"
+msgstr ""
+
+#: ../../assets/languages/strings.php:228
+msgid "Ukraine"
+msgstr ""
+
+#: ../../assets/languages/strings.php:229
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../../assets/languages/strings.php:230
+msgid "United Kingdom"
+msgstr ""
+
+#: ../../assets/languages/strings.php:231
+msgid "United States"
+msgstr ""
+
+#: ../../assets/languages/strings.php:232
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: ../../assets/languages/strings.php:233
+msgid "Uruguay"
+msgstr ""
+
+#: ../../assets/languages/strings.php:234
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../../assets/languages/strings.php:235
+msgid "Vanuatu"
+msgstr ""
+
+#: ../../assets/languages/strings.php:236
+msgid "Venezuela"
+msgstr ""
+
+#: ../../assets/languages/strings.php:237
+msgid "Viet Nam"
+msgstr ""
+
+#: ../../assets/languages/strings.php:238
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: ../../assets/languages/strings.php:239
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: ../../assets/languages/strings.php:240
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: ../../assets/languages/strings.php:241
+msgid "Western Sahara"
+msgstr ""
+
+#: ../../assets/languages/strings.php:242
+msgid "Yemen"
+msgstr ""
+
+#: ../../assets/languages/strings.php:243
+msgid "Zambia"
+msgstr ""
+
+#: ../../assets/languages/strings.php:244
+msgid "Zimbabwe"
+msgstr ""
