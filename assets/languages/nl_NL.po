@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Countries\n"
 "POT-Creation-Date: 2013-10-31 13:37+0100\n"
-"PO-Revision-Date: 2013-10-31 13:37+0100\n"
-"Last-Translator: Paul van der Meijs <info@lowtone.nl>\n"
+"PO-Revision-Date: 2014-03-12 12:09+0100\n"
+"Last-Translator: Paul van der Meijs <paul@lowtone.nl>\n"
 "Language-Team: Lowtone <info@lowtone.nl>\n"
-"Language: Dutch\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.6.4\n"
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -17,615 +17,615 @@ msgstr ""
 
 #: ../../assets/languages/strings.php:2
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afghanistan"
 
 #: ../../assets/languages/strings.php:3
 msgid "Åland Islands"
-msgstr ""
+msgstr "Åland"
 
 #: ../../assets/languages/strings.php:4
 msgid "Albania"
-msgstr ""
+msgstr "Albanië"
 
 #: ../../assets/languages/strings.php:5
 msgid "Algeria"
-msgstr ""
+msgstr "Algerije"
 
 #: ../../assets/languages/strings.php:6
 msgid "American Samoa"
-msgstr ""
+msgstr "Amerikaans Samoa"
 
 #: ../../assets/languages/strings.php:7
 msgid "AndorrA"
-msgstr ""
+msgstr "Andorra"
 
 #: ../../assets/languages/strings.php:8
 msgid "Angola"
-msgstr ""
+msgstr "Angola"
 
 #: ../../assets/languages/strings.php:9
 msgid "Anguilla"
-msgstr ""
+msgstr "Anguilla"
 
 #: ../../assets/languages/strings.php:10
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarctica"
 
 #: ../../assets/languages/strings.php:11
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "Antigua en Barbuda"
 
 #: ../../assets/languages/strings.php:12
 msgid "Argentina"
-msgstr ""
+msgstr "Argentinië"
 
 #: ../../assets/languages/strings.php:13
 msgid "Armenia"
-msgstr ""
+msgstr "Armenië"
 
 #: ../../assets/languages/strings.php:14
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #: ../../assets/languages/strings.php:15
 msgid "Australia"
-msgstr ""
+msgstr "Australië"
 
 #: ../../assets/languages/strings.php:16
 msgid "Austria"
-msgstr ""
+msgstr "Oostenrijk"
 
 #: ../../assets/languages/strings.php:17
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Azerbeidzjan"
 
 #: ../../assets/languages/strings.php:18
 msgid "Bahamas"
-msgstr ""
+msgstr "Bahamas"
 
 #: ../../assets/languages/strings.php:19
 msgid "Bahrain"
-msgstr ""
+msgstr "Bahrein"
 
 #: ../../assets/languages/strings.php:20
 msgid "Bangladesh"
-msgstr ""
+msgstr "Bangladesh"
 
 #: ../../assets/languages/strings.php:21
 msgid "Barbados"
-msgstr ""
+msgstr "Barbados"
 
 #: ../../assets/languages/strings.php:22
 msgid "Belarus"
-msgstr ""
+msgstr "Wit-Rusland"
 
 #: ../../assets/languages/strings.php:23
 msgid "Belgium"
-msgstr ""
+msgstr "België"
 
 #: ../../assets/languages/strings.php:24
 msgid "Belize"
-msgstr ""
+msgstr "Belize"
 
 #: ../../assets/languages/strings.php:25
 msgid "Benin"
-msgstr ""
+msgstr "Benin"
 
 #: ../../assets/languages/strings.php:26
 msgid "Bermuda"
-msgstr ""
+msgstr "Bermuda"
 
 #: ../../assets/languages/strings.php:27
 msgid "Bhutan"
-msgstr ""
+msgstr "Bhutan"
 
 #: ../../assets/languages/strings.php:28
 msgid "Bolivia"
-msgstr ""
+msgstr "Bolivia"
 
 #: ../../assets/languages/strings.php:29
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "Bosnië en Herzegovina"
 
 #: ../../assets/languages/strings.php:30
 msgid "Botswana"
-msgstr ""
+msgstr "Botswana"
 
 #: ../../assets/languages/strings.php:31
 msgid "Bouvet Island"
-msgstr ""
+msgstr "Bouveteiland"
 
 #: ../../assets/languages/strings.php:32
 msgid "Brazil"
-msgstr ""
+msgstr "Brazilië"
 
 #: ../../assets/languages/strings.php:33
 msgid "British Indian Ocean Territory"
-msgstr ""
+msgstr "Brits Indische Oceaanterritorium"
 
 #: ../../assets/languages/strings.php:34
 msgid "Brunei Darussalam"
-msgstr ""
+msgstr "Brunei Darussalam"
 
 #: ../../assets/languages/strings.php:35
 msgid "Bulgaria"
-msgstr ""
+msgstr "Bulgarije"
 
 #: ../../assets/languages/strings.php:36
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Burkina Faso"
 
 #: ../../assets/languages/strings.php:37
 msgid "Burundi"
-msgstr ""
+msgstr "Boeroendi"
 
 #: ../../assets/languages/strings.php:38
 msgid "Cambodia"
-msgstr ""
+msgstr "Cambodja"
 
 #: ../../assets/languages/strings.php:39
 msgid "Cameroon"
-msgstr ""
+msgstr "Kameroen"
 
 #: ../../assets/languages/strings.php:40
 msgid "Canada"
-msgstr ""
+msgstr "Canada"
 
 #: ../../assets/languages/strings.php:41
 msgid "Cape Verde"
-msgstr ""
+msgstr "Kaapverdië"
 
 #: ../../assets/languages/strings.php:42
 msgid "Cayman Islands"
-msgstr ""
+msgstr "Kaaimaneilanden"
 
 #: ../../assets/languages/strings.php:43
 msgid "Central African Republic"
-msgstr ""
+msgstr "Centraal-Afrikaanse Republiek"
 
 #: ../../assets/languages/strings.php:44
 msgid "Chad"
-msgstr ""
+msgstr "Tsjaad"
 
 #: ../../assets/languages/strings.php:45
 msgid "Chile"
-msgstr ""
+msgstr "Chili"
 
 #: ../../assets/languages/strings.php:46
 msgid "China"
-msgstr ""
+msgstr "China"
 
 #: ../../assets/languages/strings.php:47
 msgid "Christmas Island"
-msgstr ""
+msgstr "Christmaseiland"
 
 #: ../../assets/languages/strings.php:48
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "Cocoseilanden"
 
 #: ../../assets/languages/strings.php:49
 msgid "Colombia"
-msgstr ""
+msgstr "Colombia"
 
 #: ../../assets/languages/strings.php:50
 msgid "Comoros"
-msgstr ""
+msgstr "Comoren"
 
 #: ../../assets/languages/strings.php:51
 msgid "Congo"
-msgstr ""
+msgstr "Congo"
 
 #: ../../assets/languages/strings.php:52
 msgid "Congo, The Democratic Republic of the"
-msgstr ""
+msgstr "Democratische Republiek Congo"
 
 #: ../../assets/languages/strings.php:53
 msgid "Cook Islands"
-msgstr ""
+msgstr "Cookeilanden"
 
 #: ../../assets/languages/strings.php:54
 msgid "Costa Rica"
-msgstr ""
+msgstr "Costa Rica"
 
 #: ../../assets/languages/strings.php:55
 msgid "Cote D'Ivoire"
-msgstr ""
+msgstr "Ivoorkust"
 
 #: ../../assets/languages/strings.php:56
 msgid "Croatia"
-msgstr ""
+msgstr "Kroatië"
 
 #: ../../assets/languages/strings.php:57
 msgid "Cuba"
-msgstr ""
+msgstr "Cuba"
 
 #: ../../assets/languages/strings.php:58
 msgid "Cyprus"
-msgstr ""
+msgstr "Cyprus"
 
 #: ../../assets/languages/strings.php:59
 msgid "Czech Republic"
-msgstr ""
+msgstr "Tsjechische Republiek"
 
 #: ../../assets/languages/strings.php:60
 msgid "Denmark"
-msgstr ""
+msgstr "Denemarken"
 
 #: ../../assets/languages/strings.php:61
 msgid "Djibouti"
-msgstr ""
+msgstr "Djibouti"
 
 #: ../../assets/languages/strings.php:62
 msgid "Dominica"
-msgstr ""
+msgstr "Dominica"
 
 #: ../../assets/languages/strings.php:63
 msgid "Dominican Republic"
-msgstr ""
+msgstr "Dominicaanse Republiek"
 
 #: ../../assets/languages/strings.php:64
 msgid "Ecuador"
-msgstr ""
+msgstr "Ecuador"
 
 #: ../../assets/languages/strings.php:65
 msgid "Egypt"
-msgstr ""
+msgstr "Egypte"
 
 #: ../../assets/languages/strings.php:66
 msgid "El Salvador"
-msgstr ""
+msgstr "El Salvador"
 
 #: ../../assets/languages/strings.php:67
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "Equatoriaal-Guinea"
 
 #: ../../assets/languages/strings.php:68
 msgid "Eritrea"
-msgstr ""
+msgstr "Eritrea"
 
 #: ../../assets/languages/strings.php:69
 msgid "Estonia"
-msgstr ""
+msgstr "Estland"
 
 #: ../../assets/languages/strings.php:70
 msgid "Ethiopia"
-msgstr ""
+msgstr "Ethiopië"
 
 #: ../../assets/languages/strings.php:71
 msgid "Falkland Islands (Malvinas)"
-msgstr ""
+msgstr "Falkland Eilanden"
 
 #: ../../assets/languages/strings.php:72
 msgid "Faroe Islands"
-msgstr ""
+msgstr "Faeröer"
 
 #: ../../assets/languages/strings.php:73
 msgid "Fiji"
-msgstr ""
+msgstr "Fiji"
 
 #: ../../assets/languages/strings.php:74
 msgid "Finland"
-msgstr ""
+msgstr "Finland"
 
 #: ../../assets/languages/strings.php:75
 msgid "France"
-msgstr ""
+msgstr "Frankrijk"
 
 #: ../../assets/languages/strings.php:76
 msgid "French Guiana"
-msgstr ""
+msgstr "Frans-Guyana"
 
 #: ../../assets/languages/strings.php:77
 msgid "French Polynesia"
-msgstr ""
+msgstr "Frans-Polynesië"
 
 #: ../../assets/languages/strings.php:78
 msgid "French Southern Territories"
-msgstr ""
+msgstr "Franse Zuidelijke en Antarctische Gebieden"
 
 #: ../../assets/languages/strings.php:79
 msgid "Gabon"
-msgstr ""
+msgstr "Gabon"
 
 #: ../../assets/languages/strings.php:80
 msgid "Gambia"
-msgstr ""
+msgstr "Gambia"
 
 #: ../../assets/languages/strings.php:81
 msgid "Georgia"
-msgstr ""
+msgstr "Georgië"
 
 #: ../../assets/languages/strings.php:82
 msgid "Germany"
-msgstr ""
+msgstr "Duitsland"
 
 #: ../../assets/languages/strings.php:83
 msgid "Ghana"
-msgstr ""
+msgstr "Ghana"
 
 #: ../../assets/languages/strings.php:84
 msgid "Gibraltar"
-msgstr ""
+msgstr "Gibraltar"
 
 #: ../../assets/languages/strings.php:85
 msgid "Greece"
-msgstr ""
+msgstr "Griekenland"
 
 #: ../../assets/languages/strings.php:86
 msgid "Greenland"
-msgstr ""
+msgstr "Groenland"
 
 #: ../../assets/languages/strings.php:87
 msgid "Grenada"
-msgstr ""
+msgstr "Grenada"
 
 #: ../../assets/languages/strings.php:88
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Guadeloupe"
 
 #: ../../assets/languages/strings.php:89
 msgid "Guam"
-msgstr ""
+msgstr "Guam"
 
 #: ../../assets/languages/strings.php:90
 msgid "Guatemala"
-msgstr ""
+msgstr "Guatemala"
 
 #: ../../assets/languages/strings.php:91
 msgid "Guernsey"
-msgstr ""
+msgstr "Guernsey"
 
 #: ../../assets/languages/strings.php:92
 msgid "Guinea"
-msgstr ""
+msgstr "Guinea"
 
 #: ../../assets/languages/strings.php:93
 msgid "Guinea-Bissau"
-msgstr ""
+msgstr "Guinea-Bissau"
 
 #: ../../assets/languages/strings.php:94
 msgid "Guyana"
-msgstr ""
+msgstr "Guyana"
 
 #: ../../assets/languages/strings.php:95
 msgid "Haiti"
-msgstr ""
+msgstr "Haïti"
 
 #: ../../assets/languages/strings.php:96
 msgid "Heard Island and Mcdonald Islands"
-msgstr ""
+msgstr "Heard en McDonald eilanden"
 
 #: ../../assets/languages/strings.php:97
 msgid "Holy See (Vatican City State)"
-msgstr ""
+msgstr "Heilige Stoel (Vaticaanstad)"
 
 #: ../../assets/languages/strings.php:98
 msgid "Honduras"
-msgstr ""
+msgstr "Honduras"
 
 #: ../../assets/languages/strings.php:99
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 #: ../../assets/languages/strings.php:100
 msgid "Hungary"
-msgstr ""
+msgstr "Hongarije"
 
 #: ../../assets/languages/strings.php:101
 msgid "Iceland"
-msgstr ""
+msgstr "IJsland"
 
 #: ../../assets/languages/strings.php:102
 msgid "India"
-msgstr ""
+msgstr "Indië"
 
 #: ../../assets/languages/strings.php:103
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonesië"
 
 #: ../../assets/languages/strings.php:104
 msgid "Iran, Islamic Republic Of"
-msgstr ""
+msgstr "Iran , Islamitische Republiek"
 
 #: ../../assets/languages/strings.php:105
 msgid "Iraq"
-msgstr ""
+msgstr "Irak"
 
 #: ../../assets/languages/strings.php:106
 msgid "Ireland"
-msgstr ""
+msgstr "Ierland"
 
 #: ../../assets/languages/strings.php:107
 msgid "Isle of Man"
-msgstr ""
+msgstr "Isle of Man"
 
 #: ../../assets/languages/strings.php:108
 msgid "Israel"
-msgstr ""
+msgstr "Israël"
 
 #: ../../assets/languages/strings.php:109
 msgid "Italy"
-msgstr ""
+msgstr "Italië"
 
 #: ../../assets/languages/strings.php:110
 msgid "Jamaica"
-msgstr ""
+msgstr "Jamaica"
 
 #: ../../assets/languages/strings.php:111
 msgid "Japan"
-msgstr ""
+msgstr "Japan"
 
 #: ../../assets/languages/strings.php:112
 msgid "Jersey"
-msgstr ""
+msgstr "Jersey"
 
 #: ../../assets/languages/strings.php:113
 msgid "Jordan"
-msgstr ""
+msgstr "Jordanië"
 
 #: ../../assets/languages/strings.php:114
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Kazachstan"
 
 #: ../../assets/languages/strings.php:115
 msgid "Kenya"
-msgstr ""
+msgstr "Kenia"
 
 #: ../../assets/languages/strings.php:116
 msgid "Kiribati"
-msgstr ""
+msgstr "Kiribati"
 
 #: ../../assets/languages/strings.php:117
 msgid "Korea, Democratic People's Republic of"
-msgstr ""
+msgstr "Korea , Democratische Volksrepubliek"
 
 #: ../../assets/languages/strings.php:118
 msgid "Korea, Republic of"
-msgstr ""
+msgstr "Zuid-Korea"
 
 #: ../../assets/languages/strings.php:119
 msgid "Kuwait"
-msgstr ""
+msgstr "Koeweit"
 
 #: ../../assets/languages/strings.php:120
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Kirgizië"
 
 #: ../../assets/languages/strings.php:121
 msgid "Lao People's Democratic Republic"
-msgstr ""
+msgstr "Laos, Democratische Volksrepubliek"
 
 #: ../../assets/languages/strings.php:122
 msgid "Latvia"
-msgstr ""
+msgstr "Letland"
 
 #: ../../assets/languages/strings.php:123
 msgid "Lebanon"
-msgstr ""
+msgstr "Libanon"
 
 #: ../../assets/languages/strings.php:124
 msgid "Lesotho"
-msgstr ""
+msgstr "Lesotho"
 
 #: ../../assets/languages/strings.php:125
 msgid "Liberia"
-msgstr ""
+msgstr "Liberia"
 
 #: ../../assets/languages/strings.php:126
 msgid "Libyan Arab Jamahiriya"
-msgstr ""
+msgstr "Libië"
 
 #: ../../assets/languages/strings.php:127
 msgid "Liechtenstein"
-msgstr ""
+msgstr "Liechtenstein"
 
 #: ../../assets/languages/strings.php:128
 msgid "Lithuania"
-msgstr ""
+msgstr "Litouwen"
 
 #: ../../assets/languages/strings.php:129
 msgid "Luxembourg"
-msgstr ""
+msgstr "Luxemburg"
 
 #: ../../assets/languages/strings.php:130
 msgid "Macao"
-msgstr ""
+msgstr "Macao"
 
 #: ../../assets/languages/strings.php:131
 msgid "Macedonia, The Former Yugoslav Republic of"
-msgstr ""
+msgstr "Macedonië, de Voormalige Joegoslavische Republiek"
 
 #: ../../assets/languages/strings.php:132
 msgid "Madagascar"
-msgstr ""
+msgstr "Madagascar"
 
 #: ../../assets/languages/strings.php:133
 msgid "Malawi"
-msgstr ""
+msgstr "Malawi"
 
 #: ../../assets/languages/strings.php:134
 msgid "Malaysia"
-msgstr ""
+msgstr "Maleisië"
 
 #: ../../assets/languages/strings.php:135
 msgid "Maldives"
-msgstr ""
+msgstr "Maldiven"
 
 #: ../../assets/languages/strings.php:136
 msgid "Mali"
-msgstr ""
+msgstr "Mali"
 
 #: ../../assets/languages/strings.php:137
 msgid "Malta"
-msgstr ""
+msgstr "Malta"
 
 #: ../../assets/languages/strings.php:138
 msgid "Marshall Islands"
-msgstr ""
+msgstr "Marshall Eilanden"
 
 #: ../../assets/languages/strings.php:139
 msgid "Martinique"
-msgstr ""
+msgstr "Martinique"
 
 #: ../../assets/languages/strings.php:140
 msgid "Mauritania"
-msgstr ""
+msgstr "Mauritanië"
 
 #: ../../assets/languages/strings.php:141
 msgid "Mauritius"
-msgstr ""
+msgstr "Mauritius"
 
 #: ../../assets/languages/strings.php:142
 msgid "Mayotte"
-msgstr ""
+msgstr "Mayotte"
 
 #: ../../assets/languages/strings.php:143
 msgid "Mexico"
-msgstr ""
+msgstr "Mexico"
 
 #: ../../assets/languages/strings.php:144
 msgid "Micronesia, Federated States of"
-msgstr ""
+msgstr "Micronesië , Federale Staten van"
 
 #: ../../assets/languages/strings.php:145
 msgid "Moldova, Republic of"
-msgstr ""
+msgstr "Moldavië"
 
 #: ../../assets/languages/strings.php:146
 msgid "Monaco"
-msgstr ""
+msgstr "Monaco"
 
 #: ../../assets/languages/strings.php:147
 msgid "Mongolia"
-msgstr ""
+msgstr "Mongolië"
 
 #: ../../assets/languages/strings.php:148
 msgid "Montserrat"
-msgstr ""
+msgstr "Montserrat"
 
 #: ../../assets/languages/strings.php:149
 msgid "Morocco"
-msgstr ""
+msgstr "Marokko"
 
 #: ../../assets/languages/strings.php:150
 msgid "Mozambique"
-msgstr ""
+msgstr "Mozambique"
 
 #: ../../assets/languages/strings.php:151
 msgid "Myanmar"
-msgstr ""
+msgstr "Myanmar"
 
 #: ../../assets/languages/strings.php:152
 msgid "Namibia"
-msgstr ""
+msgstr "Namibië"
 
 #: ../../assets/languages/strings.php:153
 msgid "Nauru"
-msgstr ""
+msgstr "Nauru"
 
 #: ../../assets/languages/strings.php:154
 msgid "Nepal"
-msgstr ""
+msgstr "Nepal"
 
 #: ../../assets/languages/strings.php:155
 msgid "Netherlands"
@@ -637,352 +637,352 @@ msgstr "Nederlandse Antillen"
 
 #: ../../assets/languages/strings.php:157
 msgid "New Caledonia"
-msgstr ""
+msgstr "Nieuw-Caledonië"
 
 #: ../../assets/languages/strings.php:158
 msgid "New Zealand"
-msgstr ""
+msgstr "Nieuw-Zeeland"
 
 #: ../../assets/languages/strings.php:159
 msgid "Nicaragua"
-msgstr ""
+msgstr "Nicaragua"
 
 #: ../../assets/languages/strings.php:160
 msgid "Niger"
-msgstr ""
+msgstr "Niger"
 
 #: ../../assets/languages/strings.php:161
 msgid "Nigeria"
-msgstr ""
+msgstr "Nigeria"
 
 #: ../../assets/languages/strings.php:162
 msgid "Niue"
-msgstr ""
+msgstr "Niue"
 
 #: ../../assets/languages/strings.php:163
 msgid "Norfolk Island"
-msgstr ""
+msgstr "Norfolk"
 
 #: ../../assets/languages/strings.php:164
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Noordelijke Marianen"
 
 #: ../../assets/languages/strings.php:165
 msgid "Norway"
-msgstr ""
+msgstr "Noorwegen"
 
 #: ../../assets/languages/strings.php:166
 msgid "Oman"
-msgstr ""
+msgstr "Oman"
 
 #: ../../assets/languages/strings.php:167
 msgid "Pakistan"
-msgstr ""
+msgstr "Pakistan"
 
 #: ../../assets/languages/strings.php:168
 msgid "Palau"
-msgstr ""
+msgstr "Palau"
 
 #: ../../assets/languages/strings.php:169
 msgid "Palestinian Territory, Occupied"
-msgstr ""
+msgstr "Bezet Palestijns gebied"
 
 #: ../../assets/languages/strings.php:170
 msgid "Panama"
-msgstr ""
+msgstr "Panama"
 
 #: ../../assets/languages/strings.php:171
 msgid "Papua New Guinea"
-msgstr ""
+msgstr "Papoea-Nieuw-Guinea"
 
 #: ../../assets/languages/strings.php:172
 msgid "Paraguay"
-msgstr ""
+msgstr "Paraguay"
 
 #: ../../assets/languages/strings.php:173
 msgid "Peru"
-msgstr ""
+msgstr "Peru"
 
 #: ../../assets/languages/strings.php:174
 msgid "Philippines"
-msgstr ""
+msgstr "Filippijnen"
 
 #: ../../assets/languages/strings.php:175
 msgid "Pitcairn"
-msgstr ""
+msgstr "Pitcairn"
 
 #: ../../assets/languages/strings.php:176
 msgid "Poland"
-msgstr ""
+msgstr "Polen"
 
 #: ../../assets/languages/strings.php:177
 msgid "Portugal"
-msgstr ""
+msgstr "Portugal"
 
 #: ../../assets/languages/strings.php:178
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Puerto Rico"
 
 #: ../../assets/languages/strings.php:179
 msgid "Qatar"
-msgstr ""
+msgstr "Katar"
 
 #: ../../assets/languages/strings.php:180
 msgid "Reunion"
-msgstr ""
+msgstr "Réunion"
 
 #: ../../assets/languages/strings.php:181
 msgid "Romania"
-msgstr ""
+msgstr "Roemenië"
 
 #: ../../assets/languages/strings.php:182
 msgid "Russian Federation"
-msgstr ""
+msgstr "Russische Federatie"
 
 #: ../../assets/languages/strings.php:183
 msgid "RWANDA"
-msgstr ""
+msgstr "Rwanda"
 
 #: ../../assets/languages/strings.php:184
 msgid "Saint Helena"
-msgstr ""
+msgstr "Sint-Helena"
 
 #: ../../assets/languages/strings.php:185
 msgid "Saint Kitts and Nevis"
-msgstr ""
+msgstr "Saint Kitts en Nevis"
 
 #: ../../assets/languages/strings.php:186
 msgid "Saint Lucia"
-msgstr ""
+msgstr "Saint Lucia"
 
 #: ../../assets/languages/strings.php:187
 msgid "Saint Pierre and Miquelon"
-msgstr ""
+msgstr "Saint-Pierre en Miquelon"
 
 #: ../../assets/languages/strings.php:188
 msgid "Saint Vincent and the Grenadines"
-msgstr ""
+msgstr "Saint Vincent en de Grenadines"
 
 #: ../../assets/languages/strings.php:189
 msgid "Samoa"
-msgstr ""
+msgstr "Samoa"
 
 #: ../../assets/languages/strings.php:190
 msgid "San Marino"
-msgstr ""
+msgstr "San Marino"
 
 #: ../../assets/languages/strings.php:191
 msgid "Sao Tome and Principe"
-msgstr ""
+msgstr "Sao Tome en Principe"
 
 #: ../../assets/languages/strings.php:192
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "Saoedi-Arabië"
 
 #: ../../assets/languages/strings.php:193
 msgid "Senegal"
-msgstr ""
+msgstr "Senegal"
 
 #: ../../assets/languages/strings.php:194
 msgid "Serbia and Montenegro"
-msgstr ""
+msgstr "Servië en Montenegro"
 
 #: ../../assets/languages/strings.php:195
 msgid "Seychelles"
-msgstr ""
+msgstr "Seychellen"
 
 #: ../../assets/languages/strings.php:196
 msgid "Sierra Leone"
-msgstr ""
+msgstr "Sierra Leone"
 
 #: ../../assets/languages/strings.php:197
 msgid "Singapore"
-msgstr ""
+msgstr "Singapore"
 
 #: ../../assets/languages/strings.php:198
 msgid "Slovakia"
-msgstr ""
+msgstr "Slowakije"
 
 #: ../../assets/languages/strings.php:199
 msgid "Slovenia"
-msgstr ""
+msgstr "Slovenië"
 
 #: ../../assets/languages/strings.php:200
 msgid "Solomon Islands"
-msgstr ""
+msgstr "Salomonseilanden"
 
 #: ../../assets/languages/strings.php:201
 msgid "Somalia"
-msgstr ""
+msgstr "Somalië"
 
 #: ../../assets/languages/strings.php:202
 msgid "South Africa"
-msgstr ""
+msgstr "Zuid-Afrika"
 
 #: ../../assets/languages/strings.php:203
 msgid "South Georgia and the South Sandwich Islands"
-msgstr ""
+msgstr "Zuid-Georgië en de Zuidelijke Sandwicheilanden"
 
 #: ../../assets/languages/strings.php:204
 msgid "Spain"
-msgstr ""
+msgstr "Spanje"
 
 #: ../../assets/languages/strings.php:205
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Sri Lanka"
 
 #: ../../assets/languages/strings.php:206
 msgid "Sudan"
-msgstr ""
+msgstr "Soedan"
 
 #: ../../assets/languages/strings.php:207
 msgid "Suriname"
-msgstr ""
+msgstr "Suriname"
 
 #: ../../assets/languages/strings.php:208
 msgid "Svalbard and Jan Mayen"
-msgstr ""
+msgstr "Svalbard en Jan Mayen"
 
 #: ../../assets/languages/strings.php:209
 msgid "Swaziland"
-msgstr ""
+msgstr "Swaziland"
 
 #: ../../assets/languages/strings.php:210
 msgid "Sweden"
-msgstr ""
+msgstr "Zweden"
 
 #: ../../assets/languages/strings.php:211
 msgid "Switzerland"
-msgstr ""
+msgstr "Zwitserland"
 
 #: ../../assets/languages/strings.php:212
 msgid "Syrian Arab Republic"
-msgstr ""
+msgstr "Syrische Arabische Republiek"
 
 #: ../../assets/languages/strings.php:213
 msgid "Taiwan, Province of China"
-msgstr ""
+msgstr "Taiwan , provincie van China"
 
 #: ../../assets/languages/strings.php:214
 msgid "Tajikistan"
-msgstr ""
+msgstr "Tadzjikistan"
 
 #: ../../assets/languages/strings.php:215
 msgid "Tanzania, United Republic of"
-msgstr ""
+msgstr "Tanzania , Verenigde Republiek van"
 
 #: ../../assets/languages/strings.php:216
 msgid "Thailand"
-msgstr ""
+msgstr "Thailand"
 
 #: ../../assets/languages/strings.php:217
 msgid "Timor-Leste"
-msgstr ""
+msgstr "Oost-Timor"
 
 #: ../../assets/languages/strings.php:218
 msgid "Togo"
-msgstr ""
+msgstr "Togo"
 
 #: ../../assets/languages/strings.php:219
 msgid "Tokelau"
-msgstr ""
+msgstr "Tokelau"
 
 #: ../../assets/languages/strings.php:220
 msgid "Tonga"
-msgstr ""
+msgstr "Tonga"
 
 #: ../../assets/languages/strings.php:221
 msgid "Trinidad and Tobago"
-msgstr ""
+msgstr "Trinidad en Tobago"
 
 #: ../../assets/languages/strings.php:222
 msgid "Tunisia"
-msgstr ""
+msgstr "Tunesië"
 
 #: ../../assets/languages/strings.php:223
 msgid "Turkey"
-msgstr ""
+msgstr "Turkije"
 
 #: ../../assets/languages/strings.php:224
 msgid "Turkmenistan"
-msgstr ""
+msgstr "Turkmenistan"
 
 #: ../../assets/languages/strings.php:225
 msgid "Turks and Caicos Islands"
-msgstr ""
+msgstr "Turks- en Caicoseilanden"
 
 #: ../../assets/languages/strings.php:226
 msgid "Tuvalu"
-msgstr ""
+msgstr "Tuvalu"
 
 #: ../../assets/languages/strings.php:227
 msgid "Uganda"
-msgstr ""
+msgstr "Oeganda"
 
 #: ../../assets/languages/strings.php:228
 msgid "Ukraine"
-msgstr ""
+msgstr "Oekraïne"
 
 #: ../../assets/languages/strings.php:229
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Verenigde Arabische Emiraten"
 
 #: ../../assets/languages/strings.php:230
 msgid "United Kingdom"
-msgstr ""
+msgstr "Verenigd Koninkrijk"
 
 #: ../../assets/languages/strings.php:231
 msgid "United States"
-msgstr ""
+msgstr "Verenigde Staten van Amerika"
 
 #: ../../assets/languages/strings.php:232
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "Kleine afgelegen eilanden van de Verenigde Staten"
 
 #: ../../assets/languages/strings.php:233
 msgid "Uruguay"
-msgstr ""
+msgstr "Uruguay"
 
 #: ../../assets/languages/strings.php:234
 msgid "Uzbekistan"
-msgstr ""
+msgstr "Oezbekistan"
 
 #: ../../assets/languages/strings.php:235
 msgid "Vanuatu"
-msgstr ""
+msgstr "Vanuatu"
 
 #: ../../assets/languages/strings.php:236
 msgid "Venezuela"
-msgstr ""
+msgstr "Venezuela"
 
 #: ../../assets/languages/strings.php:237
 msgid "Viet Nam"
-msgstr ""
+msgstr "Vietnam"
 
 #: ../../assets/languages/strings.php:238
 msgid "Virgin Islands, British"
-msgstr ""
+msgstr "Britse Maagdeneilanden"
 
 #: ../../assets/languages/strings.php:239
 msgid "Virgin Islands, U.S."
-msgstr ""
+msgstr "Virgin Islands, V.S."
 
 #: ../../assets/languages/strings.php:240
 msgid "Wallis and Futuna"
-msgstr ""
+msgstr "Wallis en Futuna"
 
 #: ../../assets/languages/strings.php:241
 msgid "Western Sahara"
-msgstr ""
+msgstr "Westelijke Sahara"
 
 #: ../../assets/languages/strings.php:242
 msgid "Yemen"
-msgstr ""
+msgstr "Jemen"
 
 #: ../../assets/languages/strings.php:243
 msgid "Zambia"
-msgstr ""
+msgstr "Zambia"
 
 #: ../../assets/languages/strings.php:244
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Zimbabwe"
